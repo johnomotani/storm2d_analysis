@@ -33,3 +33,11 @@ Analysing STORM2D filament simulations
    jupyter notebook
    ```
    and click on `storm2d_analysis.ipynb`
+
+1. Experiment with different options by changing the BOUT.inp file
+   1. filament properties in [blob] and [blob2] sections
+   1. simulation parameters in [storm] section
+
+   You will find brief descriptions of most of the options in
+   `STORM/doc/options.md`  
+   https://github.com/boutproject/STORM/blob/master/doc/options.md
