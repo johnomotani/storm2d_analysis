@@ -28,6 +28,11 @@ Analysing STORM2D filament simulations
    mpirun -np 4 ./storm2d
    ```
 
+1. Install jupyter if necessary
+   ```
+   pip3 install --user jupyter
+   ```
+
 1. Open and run the Jupyter notebook
    ```
    jupyter notebook
