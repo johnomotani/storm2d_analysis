@@ -31,6 +31,7 @@ Analysing STORM2D filament simulations
 1. Install jupyter if necessary
    ```
    pip3 install --user jupyter
+   export PATH=~/.local/bin:$PATH
    ```
 
 1. Open and run the Jupyter notebook
