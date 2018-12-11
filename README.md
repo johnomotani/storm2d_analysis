@@ -3,7 +3,7 @@ Analysing STORM2D filament simulations
 
 1. Download (or clone) STORM from github
    ```
-   git clone git@github.com:boutproject/STORM.git
+   git clone https://github.com/boutproject/STORM.git
    ```
 
 1. Compile storm2d:
